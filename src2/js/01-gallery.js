@@ -39,7 +39,7 @@ function onGalleryClick(event) {
     const bigImageLink = event.target.dataset.source;
 
     onOpenBigImage(bigImageLink);
-}
+};
 
 function onOpenBigImage(link) {
     
